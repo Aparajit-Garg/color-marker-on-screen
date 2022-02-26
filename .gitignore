@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Ignoring the build folder
+build/*
+
+# ignoring .DS_Store file
+.DS_Store
